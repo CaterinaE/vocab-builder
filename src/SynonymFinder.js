@@ -159,5 +159,4 @@ const SynonymFinder = () => {
   );
 };
 
-export default SynonymFinder;
-export default SynonymFinder;
+export default SynonymFinder; 
